@@ -4,3 +4,5 @@
 
 
 I am into Spiking Neural Networks and accelerating science with computers. I did some game development in my early years.
+
+![hidden](https://benediktsvogler.com/stat.php)
