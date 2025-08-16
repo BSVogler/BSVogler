@@ -1,10 +1,3 @@
-🎓 MSc Robotics, Cognition, Intelligence @ TU Munich
-
-🎓 BSc Media Informatics @ Bauhaus University Weimar
-
-My interest is in extending capabilities of reason with computers.
-My academic interest is Spiking Neural Networks. I did some game development in my early years.
-
-More about my thoughts on my [blog](blog.benediktsvogler.com).
+Based in Munich, Germany, I am a certified Kubernetes Application Developer specializing in scalable backend systems and machine learning solutions. With extensive experience in healthcare technology and AI applications, I focus on developing robust, data-driven solutions.
 
 ![hidden](https://benediktsvogler.com/stat.php)
